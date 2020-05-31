@@ -1,7 +1,7 @@
-Here is my first assignment.
+Here is my first assignment (drawing my portrait using Processing)
 
-How to insert a picture 
+![](my_portrait.png)
 
-![](file_name.jpg)
 
-Note that the picture should be in the assignment folder for that day (for the organization purpose)
+Remarks:
+During the process, I got a chance to use different functions to draw shapes and other drawing functions such as triangle(), ellipse(), line(), fill() and noFill(). I also learned how to upload an image in a md file.
