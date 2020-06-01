@@ -1,6 +1,6 @@
-This video shows the creation of double Archimedian spiral.
+The video that shows the creation of double Archimedian spiral can be found in June2 Folder since I believe that md does not support an mov file. Hence I include a screen shot of it.
 
-![](my_art.mov)
+![](my_art.png)
 
 ## Challenges
 
