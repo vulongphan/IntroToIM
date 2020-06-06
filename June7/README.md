@@ -11,7 +11,7 @@ In my art work assignment, I tried to create a clock model with its minute hands
 I also tried to gradually change the color of the clock to match the time of the day, although I only partially succeeded.
 
 Following is a snapshot of my art
-![](my_art2.png)
+![](my_art2.gif)
 
 ## Reflections
 In the data visualization assigment, I had a chance to practice reading from a file and output thte data in the form of a chart. 
