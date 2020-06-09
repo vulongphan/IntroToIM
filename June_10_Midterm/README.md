@@ -1,7 +1,3 @@
-Overall concept
-Instructions for usage
-Describle problems/challenges
-
 # Midterm project: Gold Mining
 
 ## I, Overall concept and Instructions for usage
