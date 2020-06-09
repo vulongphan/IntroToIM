@@ -1,9 +1,9 @@
 /*
 Name: Phan Vu Long
- Assignment due date: June 10
- This project models after a simple computer game in which the player has to 'dig up' each tile on the screen one by one and can only win when all tiles have been uncovered except for the one with the bomb, otherwise the player loses
- I first have to create a class Tile and put them in a 2D array and later on draw each them on the screen. Then I have to check which tile the mouse clicks on in order to uncover the tile. 
- I also have to check when the player clicks on the tile with the bomb then the game ends
+Assignment due date: June 10
+This project models after a simple computer game in which the player has to 'dig up' each tile on the screen one by one and can only win when all tiles have been uncovered except for the one with the bomb, otherwise the player loses
+I first have to create a class Tile and put them in a 2D array and later on draw each them on the screen. Then I have to check which tile the mouse clicks on in order to uncover the tile. 
+I also have to check when the player clicks on the tile with the bomb then the game ends
  */
 
 
