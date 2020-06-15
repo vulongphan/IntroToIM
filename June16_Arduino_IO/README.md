@@ -11,12 +11,11 @@ Following is my circuit schematics
 
 ![](circuit_schematic.jpg)
 
-![](circuit_schematic.gif)
-
-
 Following is a photograph of my project
 
 ![](control_2LEDS.jpg)
+
+![](control_2LEDS.gif)
 
 ## Challenges
 
