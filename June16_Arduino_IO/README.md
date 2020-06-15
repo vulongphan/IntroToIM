@@ -9,11 +9,14 @@ state of the second LED (if I use my hand to cover the photoresistor then the LE
 
 Following is my circuit schematics
 
-![](circuit_schematic.png)
+![](circuit_schematic.jpg)
+
+![](circuit_schematic.gif)
+
 
 Following is a photograph of my project
 
-![](control_2LEDS.png)
+![](control_2LEDS.jpg)
 
 ## Challenges
 
