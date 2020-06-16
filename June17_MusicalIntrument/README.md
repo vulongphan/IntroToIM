@@ -8,7 +8,7 @@ and the potentiometer act as inputs to the arduino board while the loudspeaker a
 
 My schematic:
 
-!()[schematic.jpg]
+![](schematic.jpg)
 
 
 A demo:
@@ -17,7 +17,7 @@ A demo:
 
 
 A photograph of my circuit:
-!()[my_keyboarf.jpg]
+![](my_keyboarf.jpg)
 
 
 
