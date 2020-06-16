@@ -17,6 +17,8 @@ A demo:
 
 
 A photograph of my circuit:
+
+
 ![](my_keyboard.jpg)
 
 
