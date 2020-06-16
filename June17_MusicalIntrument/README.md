@@ -8,16 +8,16 @@ and the potentiometer act as inputs to the arduino board while the loudspeaker a
 
 My schematic:
 
-![schematic.jpg]
+!()[schematic.jpg]
 
 
 A demo:
 
-[Go to this link](https://drive.google.com/file/d/18kDQmSOEX2TT4ISixfs-TLgnCw1s0vjX/view?usp=sharing)
+[Link](https://drive.google.com/file/d/18kDQmSOEX2TT4ISixfs-TLgnCw1s0vjX/view?usp=sharing)
 
 
 A photograph of my circuit:
-![my_keyboarf.jpg]
+!()[my_keyboarf.jpg]
 
 
 
