@@ -17,7 +17,7 @@ A demo:
 
 
 A photograph of my circuit:
-![](my_keyboarf.jpg)
+![](my_keyboard.jpg)
 
 
 
