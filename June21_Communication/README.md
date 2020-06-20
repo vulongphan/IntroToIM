@@ -20,7 +20,7 @@ A photograph:
 
 A gif:
 
-![](communication.gif)
+![](Communication.gif)
 
 ## Challenges and Reflections
 
