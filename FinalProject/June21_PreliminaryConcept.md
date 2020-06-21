@@ -1,27 +1,17 @@
 
-Main idea of my project: A distance sensoring robot which can be controlled through Processing control interface
+## Main idea of my project: A distance sensoring vehicle which can be controlled through Processing control interface
 
-Some techical key points:
+### Some techical key points:
 
-The robot:
+### The vehicle: DC motors, distance sensors, LED and buzzer
 
-When the sensor senses an object of a minimum distance, the information is written to the Serial port as "S" (Serial.print("S"))
+When the sensor senses an object of a minimum distance, the information is sent to Processing and will be reflected on the control interface. At the same time, the LED will blink and a warning sound will be played on the buzzer
 
-The arduino program continues reading the last byte (Serial.read()). If it is "F", the robot will move forward; if it is "B", the robot will move 
-backwards; if it is "R", the robot will rotate to the right; if it is "L", the robot will rotate to the left
+### Processing program
+The interface will have four arrows to signify how we want to control the robot and three other signalling boxes to reflect if the vehicle is powered and whether it encounters obstacles
 
-The processing program:
+Also, there will be a 2D model of the vehicle looking from above which reflects the direction of the vehicle in real time.
 
-The program keeps reading the Serial port and when it reaches "S" (myport.bufferUntil("S")), SerialEvent() is called which signals
-a front barrier in the Processing control interface 
+If time permitted, I also want to add other output and input devices on the vehicle whose changes in state will be reflected on the control interface.
 
-When an arrow is pressed, the information (one of the four characters "F", "B", "R", "L") is written to the port (myport.write())
-
-The program will contain the main class Game with member functions such as draw_interface() - to show image of the robot with 
-grey barriers in 4 directions and 4 grey arrows in the corner to signify the direction and the state of the robot, robot_move() - to color
-one of the four aforementioned arrows and barriers red 
-
-Member boolean attributes such as
-forward, backward, right, left, stop (the 'stop' attribute is to signal the red barrier in the forward direction, the other 4 
-attributes are there to signal when to show the red direction arrow of the robot) and integer attribute color to change the color
-of the barrier and the arrow
+### P/s: I am confident that I will be able to finish these features in time since I already have my interface nearly finished and I have been able to figure out my communication method between Processing and Arduino through the Serial port
