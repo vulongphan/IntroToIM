@@ -1,5 +1,5 @@
 
-## Main idea of my project: A distance sensoring vehicle which can be controlled through Processing control interface
+## Main idea of my project: A distance sensoring vehicle controlled through Processing control interface
 
 ### Some techical key points:
 
@@ -14,4 +14,4 @@ Also, there will be a 2D model of the vehicle looking from above which reflects 
 
 If time permitted, I also want to add other output and input devices on the vehicle whose changes in state will be reflected on the control interface.
 
-### P/s: I am confident that I will be able to finish these features in time since I already have my interface nearly finished and I have been able to figure out my communication method between Processing and Arduino through the Serial port
+### P/s: I am confident that I will be able to finish these features in time since I already have my interface nearly finished. I have also been able to figure out my communication method between Processing and Arduino through the Serial port
