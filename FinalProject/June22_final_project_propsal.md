@@ -1,12 +1,10 @@
-# Introduction:
+## A refined version of the final project proposal which includes a schematic and the functionality of Arduino and Processing
 
-This is the refined version of the final project proposal which includes a schematic and the functionality of Arduino and Processing
-
-## Schematic
+### Schematic
 
 ![](schematic.jpg)
 
-## Arduino
+### Arduino
 
 What it does:
 
@@ -16,15 +14,14 @@ an alarm sound when an object is encountered)
 What it receives from Processing:
 
 * 4 strings "F", "B", "R", "L" that give commands to the robot so that it moves in 4 directions
-* For example, if Arduino reads "F", it will move the robot forwards through specific instructions to the 2 motors and the same 
-for the other 3 commands
+* For example, if Arduino reads "F", it will move the robot forwards through specific instructions to the 2 motors and the same for the other 3 commands
 
 What it writes to Processing:
 
 * 4 integers 0,1,2,3 that represent 4 states of the robots: powered off, powered on, encountering obstacles and not encountering 
 any object, respectively
 
-## Processing
+### Processing
 
 What it does:
 
