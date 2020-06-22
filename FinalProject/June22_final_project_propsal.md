@@ -17,7 +17,7 @@ What it receives from Processing:
 
 * 4 strings "F", "B", "R", "L" that give commands to the robot so that it moves in 4 directions
 * For example, if Arduino reads "F", it will move the robot forwards through specific instructions to the 2 motors and the same 
-for the other 4 commands
+for the other 3 commands
 
 What it writes to Processing:
 
