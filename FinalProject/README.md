@@ -49,6 +49,10 @@ an alarm sound when an object is encountered)
 * 4 integers 0,1,2,3 that represent 4 states of the robots: powered off, powered on, encountering obstacles and not encountering 
 any object, respectively
 
+### A snapshot of the schematic
+
+![](schematic.jpg)
+
 ### A snapshot of the robot
 
 ![](robot.jpg)
