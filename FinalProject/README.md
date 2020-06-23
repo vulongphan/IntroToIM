@@ -6,7 +6,7 @@ itself can move forward, backward and rotate left and right. When it encounters 
 I find the most realistic about the robot compared to WALLE are that it has two wheels and when I turn the robot on it will say "WALLLLLEEE" (which is so cute:( )
 and that the robot can practically "dance" (through wide degree rotation) like a real WALLE.
 
-You can click on the following ![link](https://drive.google.com/file/d/19A8P6lydA5BnsjO4F526fzJtJBgsGaJh/view?usp=sharing) to see a demo of the project.
+You can click on the following [link](https://drive.google.com/file/d/19A8P6lydA5BnsjO4F526fzJtJBgsGaJh/view?usp=sharing) to see a demo of the project.
 
 ## Processing program and its functionality
 
